@@ -19,7 +19,7 @@ body {
   margin: 0px auto;
   max-width: 1980px;
   min-height: 1282px;
-  background-image: url(./images/bghead.png);
+  background-image: url(../images/bghead.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
@@ -280,7 +280,7 @@ body {
 .partners {
   width: 100%;
   height: 500px;
-  background: url(./images/BGdown.png);
+  background: url(../images/BGdown.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
